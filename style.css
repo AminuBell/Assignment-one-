@@ -1,0 +1,49 @@
+  .container {
+      margin-top: 20px;
+    }
+
+    #services {
+      background-color: #99ccdf;
+      border: 1px solid whitesmoke;
+      border-radius: 20px;
+      padding: 10px;
+      padding-left: 20px;
+      padding-right: 30px;
+    }
+    a{
+      color: rgb(20, 17, 17);
+      font-size: medium;
+      font-weight: 800;
+    }
+
+    p {
+      max-width: fit-content;
+    }
+
+    #aboutus {
+      color: rgb(8, 8, 8);
+      background-color: #99ccdf;;
+      padding: 20px;
+      border-radius: 20px;
+
+    }
+
+    #contactus {
+  
+      border-radius: 20px;
+    }
+
+    #nav {
+
+      background-color: #99ccdf;
+      position: relative;
+
+    }
+    form{
+      padding-bottom: 10px;
+    }
+    footer{
+      background-color: #99ccdf;
+      color: black;
+      border-radius: 10px;
+    }
